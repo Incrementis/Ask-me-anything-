@@ -1,7 +1,8 @@
 # Ask Me Anything (AMA)
 Have questions to ask me directly? Try out my AMA!
+Otherwise you are welcome to write me an email [incrementis@gmail.com](mailto:incrementis@gmail.com)!
 
-NOTE: There is a good chance that this AMA repo will evolve over time to reach a better usability.
+NOTE: There is a good chance that this AMA repo could evolve over time to reach a better usability.
 
 ---
 
