@@ -6,7 +6,7 @@ NOTE: There is a good chance that this AMA repo could evolve over time to reach 
 
 ---
 
-### [Ask a Question](https://github.com/incrementis/ask-me-anything-/issues/new) &nbsp;&nbsp;&nbsp; [Closed questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
+### [Ask a Question](https://github.com/Incrementis/Ask-me-anything-/discussions/1)
 
 ---
 
