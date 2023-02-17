@@ -4,7 +4,7 @@ Otherwise you are welcome to write me an email [incrementis@gmail.com](mailto:in
 <a href="https://twitter.com/home" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40"/></a>
 <a href="https://dev.to/settings" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>!
 
-NOTE: There is a good chance that this AMA repo could evolve over time to reach a better usability.
+NOTE: Due to new discussion features of GitHub, this repository is not needed.
 
 ---
 
